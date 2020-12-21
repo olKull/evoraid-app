@@ -1,0 +1,7 @@
+port: "8000"
+
+db:
+  username: "root"
+  host: "localhost"
+  port: "8889"
+  dbname: "todo_db"
